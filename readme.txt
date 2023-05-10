@@ -1,0 +1,2 @@
+Afin que le projet fonctionne, il faiut dans le fichier environnement.ts (coté front), renseigner la publvic key & private key de stripe.
+De plus dans le fichier index.jsd coté back il faut aussi renseigner la private key.
